@@ -20,12 +20,21 @@
     font-size: 1rem;
     max-width: 50rem;
     padding: 0 2rem;
+
+     background: rgba(67, 67, 67, 0.9); 
+color: #fff;
+ border-radius: 5px;
+ height: 150px;
+ width: 730px;
+
+  
 }
 .skills--bars{
     margin: 1.5rem;
     width: 100vw;
     max-width: 80%;
     text-align: left;
+    
 }
 .skills--bar{
     display: flex;
@@ -43,6 +52,7 @@
 .skills-bar-text>p{
 font-size: 1rem;
 font-weight: 200;
+color: #fff;
 }
 
 @media screen and(max-width:720px) {

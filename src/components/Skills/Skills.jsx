@@ -12,12 +12,12 @@ export default function Skills() {
         What I do <br />
       </span>
       <span className="skills--description">
-        Skilled in using design software to craft visually engaging and
+        Skilled in using design software to craft visually engaging <br/>and
         user-friendly digital products
         <br />
-        Experienced in front-end and back-end web development, with expertise in
+        Experienced in front-end and back-end web development,<br/> with expertise in
         HTML, CSS, <br />
-        JavaScript, and various web frameworks. Strong problem-solving and
+        JavaScript, and various web frameworks. Strong problem-solving <br/>and
         debugging skills, <br />
         dedicated to building responsive and accessible websites.
       </span>
